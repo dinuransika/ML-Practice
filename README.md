@@ -1,2 +1,2 @@
 # ML-Practice
-## Just for studying
+## Only for studying purposes
